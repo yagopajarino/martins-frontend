@@ -1,0 +1,44 @@
+html {
+    font-size: 20px;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+section:not(.welcome), nav {
+    padding: 0 10%;
+}
+
+nav h1 {
+    margin: 1rem;
+    font-size: 2rem;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 3rem;
+    padding-bottom: 0.3em;
+    margin: 1rem 0 0 0;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+/* @media (max-width: 1280px) {
+    html {
+        font-size: 25px;
+    }
+} */

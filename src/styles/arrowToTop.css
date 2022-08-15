@@ -1,0 +1,15 @@
+#arrowContainer {
+    padding: .5rem;
+    width: fit-content;
+    border-radius: 5px;
+    box-shadow: 8px 8px 10px #3333333b;
+    background-color: #bd880c;
+    position: fixed;
+    right: 20px;
+    bottom: -100px;
+    transition: bottom .75s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+#arrowContainer:hover {
+    background-color: #835500;
+}
