@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/martins-frontend/static/css/main.a896ca23.css",
-    "main.js": "/martins-frontend/static/js/main.cb142441.js",
+    "main.css": "/martins-frontend/static/css/main.19aebeef.css",
+    "main.js": "/martins-frontend/static/js/main.4dd1fe2a.js",
     "static/media/viñas_welcome.png": "/martins-frontend/static/media/viñas_welcome.02017ef80be0cf77c010.png",
     "static/media/cabernet-sauvignon.png": "/martins-frontend/static/media/cabernet-sauvignon.1ba6ed317ceb23bbf383.png",
     "static/media/cabernet-malbec.png": "/martins-frontend/static/media/cabernet-malbec.fe022f1124feb2baea8c.png",
     "static/media/malbec.png": "/martins-frontend/static/media/malbec.2bb4e49b038a9e3e822b.png",
     "static/media/racimo.jpeg": "/martins-frontend/static/media/racimo.ce21831d4b869b3fcd17.jpeg",
     "index.html": "/martins-frontend/index.html",
-    "main.a896ca23.css.map": "/martins-frontend/static/css/main.a896ca23.css.map",
-    "main.cb142441.js.map": "/martins-frontend/static/js/main.cb142441.js.map"
+    "main.19aebeef.css.map": "/martins-frontend/static/css/main.19aebeef.css.map",
+    "main.4dd1fe2a.js.map": "/martins-frontend/static/js/main.4dd1fe2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a896ca23.css",
-    "static/js/main.cb142441.js"
+    "static/css/main.19aebeef.css",
+    "static/js/main.4dd1fe2a.js"
   ]
 }
