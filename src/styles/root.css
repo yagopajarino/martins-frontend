@@ -14,7 +14,7 @@ a {
     color: inherit;
 }
 
-section:not(.welcome), nav {
+section:not(.welcome) {
     padding: 0 10%;
 }
 
