@@ -1,5 +1,12 @@
 .welcome {
     height: 100vh;
+    background: url("../static/viñas_welcome.png");
+    display: flex;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(66, 66, 66, 0.57);
+    background-blend-mode: multiply;
 }
 
 .welcome img {
@@ -13,10 +20,6 @@
 }
 
 .welcome div {
-    z-index: 1;
-    position: absolute;
-    top: 30%;
-    margin: 0 15%;
     padding: 1rem 2rem;
     backdrop-filter: brightness(40%);
     color: #dcdcdc;
@@ -37,5 +40,9 @@
         margin: 0;
         width: -webkit-fill-available;
         padding: 1rem;
+    }
+
+    .welcome {
+        display: flex;
     }
 }
