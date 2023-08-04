@@ -19,7 +19,7 @@ export default function About() {
         const alto = document
           .querySelector("#about")
           .getBoundingClientRect().top;
-        const distanciaTop = window.pageYOffset;
+        const distanciaTop = window.scrollY;
         return distanciaTop > alto ? 0 : alto - distanciaTop;
       });
     });
