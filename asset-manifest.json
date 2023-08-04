@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.75bd548c.css",
-    "main.js": "/static/js/main.7f6a1c9b.js",
+    "main.css": "/static/css/main.3d0069a8.css",
+    "main.js": "/static/js/main.9cee22b7.js",
     "static/media/viñas_welcome.png": "/static/media/viñas_welcome.02017ef80be0cf77c010.png",
     "static/media/cabernet-sauvignon.png": "/static/media/cabernet-sauvignon.1ba6ed317ceb23bbf383.png",
     "static/media/cabernet-malbec.png": "/static/media/cabernet-malbec.fe022f1124feb2baea8c.png",
     "static/media/malbec.png": "/static/media/malbec.2bb4e49b038a9e3e822b.png",
     "static/media/racimo.jpeg": "/static/media/racimo.ce21831d4b869b3fcd17.jpeg",
     "index.html": "/index.html",
-    "main.75bd548c.css.map": "/static/css/main.75bd548c.css.map",
-    "main.7f6a1c9b.js.map": "/static/js/main.7f6a1c9b.js.map"
+    "main.3d0069a8.css.map": "/static/css/main.3d0069a8.css.map",
+    "main.9cee22b7.js.map": "/static/js/main.9cee22b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.75bd548c.css",
-    "static/js/main.7f6a1c9b.js"
+    "static/css/main.3d0069a8.css",
+    "static/js/main.9cee22b7.js"
   ]
 }
