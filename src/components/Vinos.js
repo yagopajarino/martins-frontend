@@ -63,9 +63,9 @@ export default function Vinos() {
       <div>
         <div className="tiles-container">{tiles}</div>
         <div className="comprar-container">
-          <a href="https://store.martins.ar" className="comprar-button">
+          {/* <a href="https://store.martins.ar" className="comprar-button">
             Comprar
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
